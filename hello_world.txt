@@ -1,5 +1,5 @@
 Get it right this time
 Hopefully this Push will work!!
 I'm going to stage this >> change this file again >> stage again >> commit >> push (and see what happens)
-
-Ok, here's the additional line.
+(Ok, here's the additional line.)
+Testing the VSCode configuration to edit commit messages.
