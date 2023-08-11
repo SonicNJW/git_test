@@ -1,2 +1,0 @@
-here's my text. Nick is lostSometime
-a new line (to test git push following the Permision Denied error)
